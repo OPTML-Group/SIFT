@@ -113,7 +113,7 @@ bash hallucination_sift_run.sh
 
 To directly using our unlearned model, please refer to our HuggingFace Collection:
 
-* [🤗OPTML-Group/SIFT-Models]()
+* [🤗OPTML-Group/SIFT-Models](https://huggingface.co/collections/OPTML-Group/sift)
 
 ## Contributors
 
