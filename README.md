@@ -3,7 +3,6 @@
 
 # Subspace Control: Turning Constrained Model Steering into Controllable Spectral Optimization
 
-[![preprint](https://img.shields.io/badge/arXiv-On-going-B31B1B)]()
 [![collection](https://img.shields.io/badge/HuggingFace-Collection-yellow)](https://huggingface.co/collections/OPTML-Group/simnpo-unlearned-models-6721751fb02ab0e490ab0017)
 [![issues](https://img.shields.io/badge/Issues-Welcome!-yellow)](https://github.com/OPTML-Group/SIFT/issues)
 
